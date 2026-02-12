@@ -57,10 +57,14 @@ class BankSystem {
                 case 2:
                     System.out.print("Enter amount to withdraw: ");
                     double withdraw = sc.nextDouble();
-                    if (withdraw > 0 && withdraw <= balance) {
+                    if((balance-withdraw)<=500){
+                        System.out.println("Minimum Balance Alert:");
+                    }
+                    if (withdraw > 0 && withdraw <= balance && (balance-withdraw)>=500) {
                         balance -= withdraw;
                         System.out.println("Withdrawal successful!");
                     } else {
+
                         System.out.println("Insufficient balance ");
                     }
                     break;
