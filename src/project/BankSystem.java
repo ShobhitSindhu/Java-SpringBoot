@@ -96,5 +96,6 @@ class BankSystem {
             }
         } while (choice != 6);
         sc.close();
+        //sc.close();
     }
 }
