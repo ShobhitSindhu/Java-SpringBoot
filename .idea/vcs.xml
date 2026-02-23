@@ -2,10 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/JAVA_Backend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA_Backend1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA_Backend_18thFeb26" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-boot-jwt" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/untitled/JAVA_Backend" vcs="Git" />
+=======
+>>>>>>> 7fc9241a65098ee8124b3decdff9d5188a9406e6
   </component>
 </project>

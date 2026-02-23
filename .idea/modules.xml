@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/JavaSpringBoot.iml" filepath="$PROJECT_DIR$/JavaSpringBoot.iml" />
+>>>>>>> 7fc9241a65098ee8124b3decdff9d5188a9406e6
     </modules>
   </component>
 </project>
